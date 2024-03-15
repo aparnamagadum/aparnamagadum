@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm Aparna Magadum</h1>
-<h3>Resume</h3>
+<h2>Resume</h2>
+<a href="https://drive.google.com/file/d/15aZera79JYR5Efa1xcG4BDW5_Q7ajjvh/view?usp=sharing">Resume</a>
 <h3>A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aparnamagadum&label=Profile%20views&color=0e75b6&style=flat" alt="aparnamagadum" /> </p>
