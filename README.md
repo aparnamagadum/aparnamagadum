@@ -11,3 +11,6 @@
 [HackerRank](https://www.hackerrank.com/profile/aparnamagadum2)
 [Instagram](https://www.instagram.com/aparnas.m/)
 
+## Languages and Tools:
+![Java](https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png)
+
