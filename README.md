@@ -7,4 +7,7 @@
 
 ## Connect with me:
 [LinkedIn](https://www.linkedin.com/in/aparnamagadum2/)
+[Leetcode](https://leetcode.com/aparnamagadum2/)
+[HackerRank](https://www.hackerrank.com/profile/aparnamagadum2)
+[Instagram](https://www.instagram.com/aparnas.m/)
 
