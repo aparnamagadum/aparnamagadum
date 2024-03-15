@@ -1,4 +1,4 @@
-  # Hi there 👋 Aparna Magadum
+  # Hi👋,I am Aparna Magadum
 
 - 🌱 I’m currently learning Web Development , JavaScript
 - 👯 I’m looking to collaborate on Full Stack development
