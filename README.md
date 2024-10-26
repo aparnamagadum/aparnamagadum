@@ -14,14 +14,14 @@
 </div>
 <h1>Hi 👋, I'm Aparna Magadum</h1>
 <h2>Resume</h2>
-<a href="https://drive.google.com/file/d/1tJJAvvcd_1XzUXd5UgP-mf2BdFwBDncK/view?usp=sharing">Resume</a>
+<a href="https://drive.google.com/file/d/1uP1kArGyZvsTHPM-mHJ7waCMtq-4FMxD/view?usp=sharing">Resume</a>
 <h3>A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aparnamagadum&label=Profile%20views&color=0e75b6&style=flat" alt="aparnamagadum" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aparnamagadum" alt="aparnamagadum" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development, JavaScript**
+- 🌱 I’m learning **MERN Technologies**
 
 - 👯 I’m looking to collaborate on **MERN Stack Development**
 
