@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/aparnamagadum">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-red?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   <a href="https://portfolio-client-vbd5.onrender.com/">
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&&logoColor=white" alt="Portfolio Badge"/>
