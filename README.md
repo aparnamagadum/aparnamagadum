@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   <a href="https://portfolio-client-vbd5.onrender.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
 <div id="badges" align="center">
