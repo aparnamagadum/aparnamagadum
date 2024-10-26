@@ -1,3 +1,14 @@
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/aparnamagadum2/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/aparnamagadum">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</div>
+<div id="badges" align="center">
+  <img align="center"  src="https://komarev.com/ghpvc/?username=aparnamagadum&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
 <h1>Hi 👋, I'm Aparna Magadum</h1>
 <h2>Resume</h2>
 <a href="https://drive.google.com/file/d/1tJJAvvcd_1XzUXd5UgP-mf2BdFwBDncK/view?usp=sharing">Resume</a>
@@ -43,6 +54,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" title="GitHub" alt="GitHub" width="40" height="40" style="filter: invert(1);"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title="Vercel" alt="Vercel" width="40" height="40" style="filter: invert(1);"/>&nbsp;
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAwklEQVR4AWJwL/ABtF8HJxCDQBSGT6kh121kWrAFe7ADK0kZtmATW4QVzL6DgSUQSZ4jgeDAd/aPyEAe9a4AjEAC/ZNAhgfsBzfkYQGYDHrB1zQAs4AHvSGa3gCmgN5heQMrKEGsAhwZ4K0CNjLAWQUo6UMEmH196X6EGAHtuv6Kfnik7XQRYWTUtVehuYr3VQkRHEgVIF1Zs5APEgRY6jntAFKBlX7MBgH04RYBmT/cJiDNgBkwA2bAqwIiwc+f014/Ki3k6gX4gg8AAAAASUVORK5CYII=" title="Render" alt="Render" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
