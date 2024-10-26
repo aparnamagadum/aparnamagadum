@@ -41,8 +41,8 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-white.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" title="GitHub" alt="GitHub" width="40" height="40" style="filter: invert(1);"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title="Vercel" alt="Vercel" width="40" height="40" style="filter: invert(1);"/>&nbsp;
-  <img src="https://assets.vercel.com/image/upload/front/assets/design/render-logo.svg" title="Render" alt="Render" width="40" height="40"/>&nbsp;
+  <img src="https://seeklogo.com/images/R/render-logo-0DFDE3A55E-seeklogo.com.png" title="Render" alt="Render" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 </div>
