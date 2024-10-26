@@ -43,6 +43,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" title="GitHub" alt="GitHub" width="40" height="40" style="filter: invert(1);"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title="Vercel" alt="Vercel" width="40" height="40" style="filter: invert(1);"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Render_logo.svg/1280px-Render_logo.svg.png" title="Render" alt="Render" width="40" height="40"/>&nbsp;
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAwklEQVR4AWJwL/ABtF8HJxCDQBSGT6kh121kWrAFe7ADK0kZtmATW4QVzL6DgSUQSZ4jgeDAd/aPyEAe9a4AjEAC/ZNAhgfsBzfkYQGYDHrB1zQAs4AHvSGa3gCmgN5heQMrKEGsAhwZ4K0CNjLAWQUo6UMEmH196X6EGAHtuv6Kfnik7XQRYWTUtVehuYr3VQkRHEgVIF1Zs5APEgRY6jntAFKBlX7MBgH04RYBmT/cJiDNgBkwA2bAqwIiwc+f014/Ki3k6gX4gg8AAAAASUVORK5CYII=" title="Render" alt="Render" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 </div>
