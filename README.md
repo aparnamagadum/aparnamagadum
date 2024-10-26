@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Web Development, JavaScript**
 
-- 👯 I’m looking to collaborate on **Full Stack Development**
+- 👯 I’m looking to collaborate on **MERN Stack Development**
 
-- 💬 Ask me about **Java , Spring Boot**
+- 💬 Ask me about **React , Node**
 - 💬 Ask me anything about <a href="https://github.com/aparnamagadum/aparnamagadum/issues">here</a>
 - 📫 How to reach me **aparnamagadum2@gmail.com**
 
